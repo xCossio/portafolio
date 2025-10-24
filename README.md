@@ -4,7 +4,7 @@ Realizado para la materia de **Servidores I**.
 ## README ORIGINAL incluido en la plantilla:
 Halcyonic by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license)
 
 
 A somewhat unusual but interesting responsive site template. I did this one to test out a
@@ -20,9 +20,9 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		[Unsplash](unsplash.com)
 
 	Other:
-		jQuery (jquery.com)
+		[jQuery](jquery.com)
+		[Responsive Tools](github.com/ajlkn/responsive-tools)
 
-		Responsive Tools (github.com/ajlkn/responsive-tools)
